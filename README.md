@@ -381,4 +381,4 @@ int main(int argc, char **argv)
 
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that Unrolling16  has executed with less elapsed time than Unrolling16 with blocks 2048,512.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that Unrolling16  has executed with less elapsed time than Unrolling8 with blocks 2048,512.
